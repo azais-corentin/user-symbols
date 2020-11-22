@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20201005) (generator kicad_symbol_editor)
-  (symbol "azais_corentin_symbols:DL-24N-2.4G" (in_bom yes) (on_board yes)
+  (symbol "User:DL-24N-2.4G" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -8.89 12.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
