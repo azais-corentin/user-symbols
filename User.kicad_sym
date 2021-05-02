@@ -761,7 +761,7 @@
     (property "Footprint" "User:HTQFP-64-1EP_10x10mm_P0.5mm_EP3.61x3.61mm" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at -3.81 -2.54 0)
+    (property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/LPC55S2X-LPC552X.pdf" (id 3) (at -3.81 -2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_locked" "" (id 4) (at 0 0 0)
