@@ -1155,7 +1155,7 @@
     (property "Value" "STM32G431CBUx" (id 1) (at 8.89 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm" (id 2) (at 30.48 0 0)
+    (property "Footprint" "User:UFQFPN-48_EP_7.1x7.1_Pitch0.5mm" (id 2) (at 30.48 0 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32g431cb.pdf" (id 3) (at 0 0 0)
@@ -1167,7 +1167,7 @@
     (property "ki_description" "ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "QFN*1EP*7x7mm*P0.5mm*" (id 6) (at 0 0 0)
+    (property "ki_fp_filters" "UFQFPN*EP*7.1x7.1mm*Pitch0.5mm*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "STM32G431CBUx_0_0"
