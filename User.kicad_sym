@@ -386,7 +386,7 @@
     (property "Value" "DRV8305" (id 1) (at 17.78 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "User:S-PQFP-G48" (id 2) (at 0 0 0)
+    (property "Footprint" "User:HTQFP-48_7x7mm_P0.5mm_EP6.5x6.5mm" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/drv8305.pdf" (id 3) (at 0 0 0)
@@ -398,7 +398,7 @@
     (property "ki_description" "Three phase gate driver with current shunt amplifiers and voltage regulator" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "S-PQFP-G48" (id 6) (at 0 0 0)
+    (property "ki_fp_filters" "HTQFP-48*EP*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "DRV8305_0_0"
